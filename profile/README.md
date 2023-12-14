@@ -1,15 +1,16 @@
-HF Sinclair RASS - Reporting, Analytics, and More
+HF Sinclair RASS - Reporting, Analytics, and Self-Service
 
 Welcome to the official GitHub repository for HF Sinclair's RASS team. This repository is dedicated to Reporting, Analytics, and our endeavors in Machine Learning and Predictive Analytics, focusing on Python-based development.
 
 About RASS
 
-RASS (Reporting, Analytics, and additional focuses) is at the forefront of leveraging data to drive HF Sinclair's business insights and decisions. Our key areas include:
+RASS (Reporting, Analytics, and Self-Service) is at the forefront of leveraging data to drive HF Sinclair's business insights and decisions. Our key areas include:
 
-•	Machine Learning: Developing models to predict future trends based on historical data.
-•	Predictive Analytics: Utilizing statistical algorithms and machine learning techniques to identify the likelihood of future outcomes.
 •	Reporting: Crafting detailed reports to capture trends and key performance indicators.
 •	Analytics: Applying analytical techniques for meaningful data insights.
+•	Machine Learning: Developing models to predict future trends based on historical data.
+•	Predictive Analytics: Utilizing statistical algorithms and machine learning techniques to identify the likelihood of future outcomes.
+
 
 Repository Structure/rass-project-name
     /docs           # Documentation and project reports
